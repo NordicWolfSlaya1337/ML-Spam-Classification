@@ -15,7 +15,7 @@ Source: Kaggle
 Dataset file:
 
 `SPAM text message 20170820 - Data.csv`
-`https://www.kaggle.com/datasets/team-ai/spam-text-message-classification`
+https://www.kaggle.com/datasets/team-ai/spam-text-message-classification
 
 ## Learning Type
 
